@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>将夜精校版.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>571826476.37750304</real>
+				<key>lastModification</key>
+				<real>571826476.37750304</real>
+				<key>version</key>
+				<dict>
+					<key>d043d9f75491c4690a880b0bb2a1219fe7305a8d0fb5bf4752766fe26c7030a6</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>将夜精校版.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>d043d9f75491c4690a880b0bb2a1219fe7305a8d0fb5bf4752766fe26c7030a6</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

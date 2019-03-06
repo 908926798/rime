@@ -1,0 +1,251 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	337
+#@/user_id	0cad4ba7-72c6-48cf-a3cc-70452105057f
+a 	工	c=2 d=1.65051 t=282
+aa 	式	c=1 d=1 t=193
+aaaa 	工	c=1 d=1 t=195
+ba 	陈	c=1 d=1 t=163
+bm 	出	c=1 d=1 t=146
+cccc 	又	c=1 d=1 t=202
+dc 	友	c=2 d=1.6157 t=197
+dcg 	码	c=1 d=1 t=154
+df 	夺	c=1 d=1 t=114
+dfd 	圧	c=1 d=1 t=189
+dfsd 	压顶	c=1 d=1 t=110
+dfsf 	夺标	c=1 d=1 t=109
+dsfh 	奇趣	c=1 d=1 t=107
+dy 	太	c=2 d=1.99005 t=292
+e 	有	c=1 d=1 t=151
+edm 	须	c=4 d=3.40216 t=143
+eeee 	月	c=2 d=1.99501 t=192
+et 	用	c=1 d=1 t=119
+f 	地	c=1 d=1 t=75
+fa 	载	c=2 d=1.89583 t=162
+fcl 	动	c=3 d=1.94482 t=331
+fdfs 	超大规模	c=1 d=1 t=190
+fl 	协	c=1 d=1 t=231
+fn 	志	c=1 d=1 t=293
+fsdf 	无可奈何花落去	c=1 d=1 t=105
+g 	一	c=2 d=1.90484 t=92
+gg 	五	c=7 d=3.29567 t=299
+ggtt 	五笔	c=1 d=1.2259 t=142
+gh 	下	c=5 d=4.753 t=161
+guug 	平靖	c=1 d=1 t=225
+h 	上	c=3 d=2.43106 t=239
+ha 	虎	c=1 d=1 t=135
+hid 	频	c=1 d=1 t=337
+ht 	睡	c=1 d=1 t=46
+if 	法	c=1 d=1 t=105
+ig 	汪	c=1 d=1 t=104
+iiii 	水	c=1 d=1 t=217
+j 	是	c=1 d=1 t=37
+k 	中	c=1 d=1 t=213
+kgn 	号	c=7 d=6.78088 t=269
+kgne 	饕	c=3 d=2.90268 t=268
+kkkk 	口	c=1 d=1 t=212
+kw 	只	c=2 d=1.99005 t=150
+kwyg 	唯	c=3 d=2.87311 t=91
+l 	国	c=1 d=1 t=211
+ll 	男	c=1 d=1 t=209
+llll 	田	c=1 d=1 t=210
+lpk 	连	c=4 d=3.86801 t=15
+lwg 	输	c=1 d=1 t=100
+mb 	邮	c=1 d=1 t=204
+ml 	崭	c=1 d=1 t=208
+mmmm 	山	c=3 d=2.98506 t=207
+n 	民	c=1 d=1 t=285
+ntf 	尾	c=1 d=1 t=156
+nty 	改	c=5 d=4.73732 t=152
+nua 	屏	c=2 d=1.43387 t=241
+o 	为	c=16 d=14.7863 t=337
+o 	火	c=16 d=14.7916 t=336
+oooo 	火	c=1 d=1 t=214
+oug 	粒	c=1 d=1 t=164
+pb 	字	c=19 d=9.67492 t=302
+pg 	定	c=1 d=1 t=89
+pppp 	之	c=2 d=1.99501 t=216
+pv 	安	c=1 d=1 t=175
+pyg 	福	c=1 d=1 t=99
+q 	金	c=1 d=1 t=305
+qtq 	狗	c=1 d=1 t=298
+ri 	朱	c=1 d=1 t=312
+rs 	打	c=2 d=1.66034 t=99
+rvh 	搜	c=3 d=2.86946 t=294
+s 	要	c=3 d=2.01227 t=194
+sd 	枯	c=1 d=1 t=111
+sdfa 	顶戴	c=3 d=2.43787 t=173
+se 	极	c=1 d=1 t=291
+sfi 	标	c=1 d=1 t=292
+ta 	长	c=2 d=1.956 t=293
+tc 	么	c=1 d=1 t=36
+tel 	盘	c=2 d=1.98511 t=158
+tgj 	重	c=2 d=1.98511 t=252
+thd 	自	c=6 d=3.14915 t=330
+thfn 	怎	c=13 d=12.499 t=32
+tim 	徜	c=2 d=1.45612 t=287
+tn 	秘	c=1 d=1 t=283
+tp 	管	c=3 d=2.67601 t=144
+true 	御前	c=1 d=1 t=104
+tt 	笔	c=9 d=3.75783 t=300
+tuj 	简	c=1 d=1 t=147
+txi 	系	c=3 d=2.95101 t=162
+txx 	秕	c=1 d=1 t=150
+ty 	入	c=2 d=1.99501 t=103
+tyid 	稿源	c=1 d=1 t=101
+u 	产	c=2 d=1.99005 t=224
+ud 	关	c=3 d=2.94099 t=322
+uf 	半	c=2 d=1.96561 t=320
+uft 	闭	c=3 d=2.98506 t=326
+ugu 	羡	c=2 d=1.99005 t=223
+ujfj 	单	c=6 d=5.28824 t=144
+uuuu 	立	c=2 d=1.96079 t=226
+vnu 	鼠	c=5 d=2.44094 t=310
+vvnt 	女性	c=1 d=1 t=203
+we 	仍	c=2 d=1.99501 t=304
+wf 	会	c=1 d=1 t=45
+wfh 	什	c=2 d=1.92312 t=59
+wht 	修	c=3 d=2.8466 t=148
+wkyg 	保证	c=1 d=1 t=70
+wt 	作	c=1 d=1 t=157
+wv 	分	c=2 d=1.91393 t=271
+x 	经	c=1 d=1 t=200
+xxxx 	幽幽	c=3 d=2.97516 t=201
+xyc 	统	c=2 d=1.99501 t=164
+ye 	衣	c=1 d=1 t=2
+ylk 	库	c=7 d=5.82028 t=156
+ymf 	调	c=2 d=1.9802 t=336
+yne 	户	c=1 d=1 t=124
+yngk 	词	c=1 d=1 t=147
+yq 	义	c=1 d=1 t=90
+yygy 	文	c=3 d=2.97032 t=185
+yyyy 	言	c=2 d=1.99501 t=220
+encaasv 	式要	c=0 d=0.1 t=194
+encasaa 	式要工	c=0 d=0.1 t=195
+encbaou 	陈粒	c=0 d=0.1 t=164
+encbmtu 	出简	c=0 d=0.1 t=147
+encdcpb 	码字	c=0 d=0.1 t=155
+encdfgg 	夺五	c=0 d=0.1 t=115
+encdgtt 	夺五笔	c=0 d=0.1 t=116
+encdgtu 	夺五笔单	c=0 d=0.1 t=117
+encdpyl 	码字库	c=0 d=0.1 t=156
+encdxxx 	友幽幽	c=0 d=0.1 t=198
+enceaaa 	肛式	c=0 d=0.1 t=193
+enceasa 	肛式要工	c=0 d=0.1 t=195
+enceasv 	肛式要	c=0 d=0.1 t=194
+encedtp 	须管	c=0 d=0.1 t=144
+enceeaa 	月肛式	c=0 d=0.1 t=193
+enceeas 	月肛式要	c=0 d=0.1 t=194
+enceeea 	月月肛式	c=0 d=0.1 t=193
+enceeee 	月月	c=0 d=0.1 t=192
+encfchh 	动上	c=0 d=0.1 t=238
+encgghh 	一上	c=0 d=0.1 t=73
+encggtt 	一五笔	c=0 d=0.1 t=93
+encggtt 	五笔	c=0 d=0.1 t=4
+encggtu 	一五笔单	c=0 d=0.1 t=94
+encghfa 	下载	c=0 d=0.1 t=162
+encghnu 	一上屏	c=0 d=0.1 t=74
+encgtll 	五笔连连	c=0 d=0.1 t=6
+encgtlp 	五笔连	c=0 d=0.1 t=5
+encgtuj 	五笔单	c=0 d=0.1 t=132
+encgtup 	五笔单字	c=0 d=0.1 t=133
+enchhnu 	上屏	c=0 d=0.1 t=74
+enciiuu 	水立	c=0 d=0.1 t=218
+enciuyy 	水立言	c=0 d=0.1 t=219
+enciuyy 	水立言言	c=0 d=0.1 t=220
+enckggt 	唯一五笔	c=0 d=0.1 t=93
+enckghh 	唯一上	c=0 d=0.1 t=73
+enckghn 	唯一上屏	c=0 d=0.1 t=74
+enckhoo 	中火	c=0 d=0.1 t=214
+enckkkh 	口中	c=0 d=0.1 t=213
+enckkoo 	口中火	c=0 d=0.1 t=214
+enckkop 	口中火之	c=0 d=0.1 t=215
+enckopp 	中火之	c=0 d=0.1 t=215
+enckopp 	中火之之	c=0 d=0.1 t=216
+enckwde 	只有	c=0 d=0.1 t=151
+enckwgg 	唯一	c=0 d=0.1 t=92
+enckwth 	唯自	c=0 d=0.1 t=97
+enclgkk 	国口	c=0 d=0.1 t=212
+enclkkh 	国口中	c=0 d=0.1 t=213
+enclkko 	国口中火	c=0 d=0.1 t=214
+encllkk 	田国口	c=0 d=0.1 t=212
+encllkk 	田国口中	c=0 d=0.1 t=213
+enclllg 	田国	c=0 d=0.1 t=211
+enclllg 	男田国	c=0 d=0.1 t=211
+enclllk 	男田国口	c=0 d=0.1 t=212
+encllll 	男田	c=0 d=0.1 t=210
+enclllp 	连连连	c=0 d=0.1 t=7
+enclplp 	连连	c=0 d=0.1 t=7
+encltid 	输稿源	c=0 d=0.1 t=101
+encmbmm 	邮山	c=0 d=0.1 t=205
+encmmmm 	山山	c=0 d=0.1 t=207
+encmmmm 	山山山	c=0 d=0.1 t=207
+encmmmm 	邮山山	c=0 d=0.1 t=206
+encmmmm 	邮山山山	c=0 d=0.1 t=207
+encnpyl 	改字库	c=0 d=0.1 t=145
+encntpb 	改字	c=0 d=0.1 t=144
+encoopp 	火之	c=0 d=0.1 t=215
+encoppi 	火之之水	c=0 d=0.1 t=217
+encoppp 	火之之	c=0 d=0.1 t=216
+encpbbm 	字出	c=0 d=0.1 t=146
+encpbpb 	字字	c=0 d=0.1 t=133
+encpbtu 	字出简	c=0 d=0.1 t=147
+encpbyl 	字库	c=0 d=0.1 t=156
+encpgyq 	定义	c=0 d=0.1 t=90
+encpiuu 	之水立	c=0 d=0.1 t=218
+encpiuy 	之水立言	c=0 d=0.1 t=219
+encppii 	之之水	c=0 d=0.1 t=217
+encppii 	之水	c=0 d=0.1 t=217
+encppiu 	之之水立	c=0 d=0.1 t=218
+encpppp 	之之	c=0 d=0.1 t=216
+encppyh 	字字库虎	c=0 d=0.1 t=135
+encppyl 	字字库	c=0 d=0.1 t=134
+encpyha 	字库虎	c=0 d=0.1 t=135
+encqeee 	欠月月	c=0 d=0.1 t=192
+encqwee 	欠月	c=0 d=0.1 t=191
+encsvaa 	要工	c=0 d=0.1 t=195
+encsvye 	要衣	c=0 d=0.1 t=2
+encthfc 	自动	c=0 d=0.1 t=103
+encthpg 	自定	c=0 d=0.1 t=89
+encthth 	怎怎	c=0 d=0.1 t=32
+enctlll 	笔连连连	c=0 d=0.1 t=7
+enctllp 	笔连连	c=0 d=0.1 t=6
+enctpyq 	自定义	c=0 d=0.1 t=90
+encttlp 	笔连	c=0 d=0.1 t=5
+encttth 	怎怎怎	c=0 d=0.1 t=32
+enctttt 	怎怎怎怎	c=0 d=0.1 t=23
+encttuj 	笔单	c=0 d=0.1 t=132
+encttxx 	系系统统	c=0 d=0.1 t=164
+encttxy 	系系统	c=0 d=0.1 t=163
+enctupb 	笔单字	c=0 d=0.1 t=133
+enctupp 	笔单字字	c=0 d=0.1 t=134
+enctxtx 	系系	c=0 d=0.1 t=162
+enctxxy 	系统	c=0 d=0.1 t=163
+enctxxy 	系统统	c=0 d=0.1 t=164
+enctyig 	入汪	c=0 d=0.1 t=104
+encugug 	产平靖	c=0 d=0.1 t=225
+encujpb 	单字	c=0 d=0.1 t=145
+encupbm 	单字出	c=0 d=0.1 t=146
+encupbt 	单字出简	c=0 d=0.1 t=147
+encuppb 	单字字	c=0 d=0.1 t=133
+encuppy 	单字字库	c=0 d=0.1 t=134
+encuuyy 	立言	c=0 d=0.1 t=219
+encuyyy 	立言言	c=0 d=0.1 t=220
+encvetp 	鼠须管	c=0 d=0.1 t=144
+encvned 	鼠须	c=0 d=0.1 t=143
+encvnmb 	女性邮	c=0 d=0.1 t=204
+encvnmm 	女性邮山	c=0 d=0.1 t=205
+encwfht 	会睡	c=1 d=1 t=55
+encwhnt 	修改	c=0 d=0.1 t=149
+encxxcc 	幽幽又	c=0 d=0.1 t=202
+encxxxc 	幽幽经	c=0 d=0.1 t=200
+encxxxc 	经幽幽又	c=0 d=0.1 t=202
+encxxxx 	幽幽幽幽	c=0 d=0.1 t=199
+encxxxx 	经幽幽	c=0 d=0.1 t=201
+encxyxy 	统统	c=0 d=0.1 t=164
+encylha 	库虎	c=0 d=0.1 t=135
+encynpb 	户字	c=0 d=0.1 t=125
+encypyl 	户字库	c=0 d=0.1 t=126
+encyyyy 	言言	c=0 d=0.1 t=220
