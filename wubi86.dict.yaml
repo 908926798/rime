@@ -49,7 +49,6 @@ version: "2015.1.18"
 项	adm	100
 茂	adn	100
 藏	adnt	100
-茂	adnt	100
 蕨	adu	100
 戡	adwa	100
 期	adwe	100
@@ -2061,7 +2060,7 @@ version: "2015.1.18"
 漂	isf	100
 湮	isfg	100
 漂	isfi	100
-酒	isgg	100
+酒	isg	100
 汀	ish	100
 湘	ishg	100
 潭	isj	100
@@ -2549,7 +2548,7 @@ version: "2015.1.18"
 哽	kgj	100
 喇	kgk	100
 囔	kgke	100
-唔	kgkg	100
+唔	kg	100
 嗝	kgkh	100
 喇	kgkj	100
 嗽	kgkw	100
@@ -2634,7 +2633,6 @@ version: "2015.1.18"
 跑	khq	100
 跪	khqb	100
 跞	khqi	100
-跑	khqn	100
 趵	khqy	100
 跌	khr	100
 踬	khrm	100
@@ -2680,7 +2678,7 @@ version: "2015.1.18"
 啵	kih	100
 唢	kim	100
 咣	kiq	100
-嗨	kitu	100
+嗨	kit	100
 虽	kj	100
 嘬	kjb	100
 哩	kjf	100
@@ -3034,7 +3032,7 @@ mac	mac	100
 赈	mdfe	100
 崖	mdff	100
 岸	mdfj	100
-崴	mdgt	100
+崴	mdg	100
 崦	mdj	100
 盎	mdl	100
 遄	mdm	100
@@ -3230,7 +3228,7 @@ mua	mua	100
 憨	nbtn	100
 怪	nc	100
 惨	ncd	100
-怿	ncfh	100
+怿	ncf	100
 怡	nck	100
 悛	ncw	100
 居	nd	100
@@ -3422,7 +3420,7 @@ mua	mua	100
 惊	nyiy	100
 昼	nyj	100
 咫	nyk	100
-忙	nyn	100
+忙	ny	100
 迟	nyp	100
 尽	nyu	100
 慷	nyv	100
@@ -4295,7 +4293,7 @@ mua	mua	100
 皋	rdfj	100
 翱	rdfn	100
 挎	rdfn	100
-撼	rdgn	100
+撼	rdg	100
 排	rdj	100
 掩	rdjn	100
 颀	rdm	100
@@ -4316,7 +4314,7 @@ mua	mua	100
 摇	rer	100
 持	rf	100
 技	rfc	100
-挂	rffg	100
+挂	rf	100
 盾	rfh	100
 遁	rfhp	100
 擀	rfj	100
@@ -5901,7 +5899,7 @@ mua	mua	100
 侍	wffy	100
 仁	wfg	100
 仕	wfg	100
-什	wfh	100
+什	wf	100
 值	wfhg	100
 祭	wfi	100
 畲	wfil	100
@@ -5985,7 +5983,7 @@ mua	mua	100
 俚	wjf	100
 但	wjg	100
 伸	wjh	100
-倡	wjjg	100
+倡	wjj	100
 偶	wjm	100
 偈	wjq	100
 保	wk	100
@@ -6718,6 +6716,10 @@ emm	emm	100
 
 哈哈哈	kwk	100
 呜呜呜	kqk	100
+略略略	ltl	100
+陈星霖	cx	100
+201506021004	xuh	100
+
 
 感觉	dgi	100
 帮忙	dtn	100
