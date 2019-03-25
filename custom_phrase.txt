@@ -1,0 +1,10 @@
+# Rime table
+# coding: utf-8
+#@/db_name custom_phrase.txt
+#@/db_type tabledb
+
+陈星霖	cxl	1
+908926798	qhao	1
+18374833362	shou	1
+
+越来	fhgo	1

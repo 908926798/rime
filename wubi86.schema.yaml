@@ -45,10 +45,12 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+    - table_translator@custom_phrase
 
 speller:
+  max_code_length: 4
   auto_select: true 
-  auto_select_unique_candidate: true
+  auto_select_unique_candidate: false
 
 translator:
   dictionary: wubi86
@@ -59,6 +61,14 @@ translator:
   enable_user_dict: false
   disable_user_dict_for_patterns:
     - "^z.*$"
+
+custom_phrase: 
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
 
 reverse_lookup:
   dictionary: pinyin_simp
