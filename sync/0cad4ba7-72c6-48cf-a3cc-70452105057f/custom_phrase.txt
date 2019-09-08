@@ -43,41 +43,19 @@
 扇子	ynbb	1
 去吧	fckc	1
 没钱	imqg	1
-方差	yyud	1
-挺好	rtvb	1
-正态	ghdy	1
-翻墙	toff	1
-配分	sgwv	1
-偏置	wylf	1
-似然	wnqd	1
-泛函	itbi	1
-导数	nfov	1
-变分	yowv	1
-高斯	ymad	1
-后验	rgcw	1
-散度	aeya	1
-卷积	udtk	1
-计科	yftu	1
-图灵	ltvo	1
-毛色	tfqc	1
+方差	yyua	1
 
 插线板	rxsr	1
 可视化	spwx	1
 不知道	gtut	1
 智能体	tcws	1
-虚拟机	hrsm	20
-不动点	gfhk	1
-贝叶斯	mkad	1
 
 强化学习	xwin	1
 多智能体	qtcw	1
 人工智能	watc	1
 马尔可夫	cqsf	1
 深度学习	iyun	1
-正态分布	gdwd	1
-玻尔兹曼	gquj	1
 
-玻尔兹曼机	gqus	1
 无人化作战	fwwh	1	
 
 mac	mac	1

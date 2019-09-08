@@ -115,8 +115,6 @@ key_binder:
     - { when: composing, accept: Tab, send: Page_Down }
     - { when: has_menu, accept: minus, send: Page_Up }
     - { when: has_menu, accept: equal, send: Page_Down }
-    - { when: paging, accept: comma, send: Page_Up }
-    - { when: has_menu, accept: period, send: Page_Down }
     # hotkey switch
     - { when: always, accept: Control+Shift+1, select: .next }
     - { when: always, accept: Control+Shift+2, toggle: ascii_mode }
@@ -140,11 +138,11 @@ recognizer:
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 
 ascii_composer:
-  good_old_caps_lock: true
+  good_old_caps_lock: false
   switch_key:
-    Shift_L: inline_ascii
-    Shift_R: commit_text
-    Control_L: noop
-    Control_R: noop
-    Caps_Lock: clear
+    Shift_L: noop
+    Shift_R: noop
+    Control_L: commit_code
+    Control_R: commit_code
+    Caps_Lock: commit_code
     Eisu_toggle: clear
